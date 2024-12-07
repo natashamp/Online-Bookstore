@@ -1,5 +1,5 @@
-**Online Bookstore Fall 2024 CS 157A
-**
+Online Bookstore Fall 2024 CS 157A
+
 
 Customer Frontend and Backend Stack:
 
